@@ -48,7 +48,7 @@ export default function page() {
           {/* Contact Image */}
           <div className="flex justify-center">
             <Image
-              src="/images-Bremer/contact.jfif"
+              src="/images-bremer/welcome.jfif"
               alt="contact-image"
               width={350}
               height={250}

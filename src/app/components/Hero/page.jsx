@@ -5,7 +5,7 @@ export default function page() {
       id="hero"
       className="relative h-screen flex items-center text-white"
       style={{
-        backgroundImage: "url('/images-Bremer/hero-section.webp')",
+        backgroundImage: "url('/images-bremer/hero-section.webp')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
