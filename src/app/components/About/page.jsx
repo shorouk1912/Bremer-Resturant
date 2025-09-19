@@ -7,7 +7,7 @@ export default function page() {
       <div className="container mx-auto px-4 grid md:grid-cols-2 gap-7 items-center">
         <div className="relative w-full h-[400px]">
           <Image
-            src="/Images/about-us.webp"
+            src="/images/about-us.webp"
             alt="About Bremer Restaurant"
             width={400}
             height={500}

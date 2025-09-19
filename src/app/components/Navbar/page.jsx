@@ -8,7 +8,7 @@ export default function page() {
   return (
     <nav className="bg-black text-white p-2 fixed w-full z-50 cursor-pointer">
       <div className="container mx-auto flex justify-between items-center">
-        <Image src="/Images/logo.ico" alt='logo' width={50} height={60}/>
+        <Image src="/images/logo.ico" alt='logo' width={50} height={60}/>
         <div className="hidden md:flex space-x-6 ">
           <a href="#hero" className=" text-red-600">Home</a>
           <a href="#menu" className="hover:text-red-600">Menu</a>
